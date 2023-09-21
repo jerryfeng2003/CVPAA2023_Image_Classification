@@ -8,10 +8,10 @@ The detailed information has been shown in the [Github repository](https://githu
 
 Our experiments are tested on the following environments: 4 TITAN V GPU, Python:3.10, Pytorch:2.0.1, CUDA:11.7
 ```
-conda create --name CVPAA2023 python=3.10
-conda activate CVPAA2023
-git clone https://github.com/jerryfeng2003/CVPAA2023_Image_Classification
-cd CVPAA2023_Image_Classification
+conda create --name CVPPA2023 python=3.10
+conda activate CVPPA2023
+git clone https://github.com/jerryfeng2003/CVPPA2023_Image_Classification
+cd CVPPA2023_Image_Classification
 unzip 1769319269-DND-Diko-WWWR.zip -d Image
 conda install --yes --file requirements.txt
 ```
