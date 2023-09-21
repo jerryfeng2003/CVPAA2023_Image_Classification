@@ -1,4 +1,4 @@
-# CVPAA2023_Image_Classification
+# CVPPA2023_Image_Classification
 
 In the challenge for "Image Classification of Nutrient Deficiencies in Winter Wheat and Winter Rye" organized for the CVPPA 2023 Workshop, we constructed a method that is based on the pre-trained swin-transformer v2 and utilizes tricks such as EMA and data argumentation. Our method achieves the mean accuracy of 90.1\% on the test set and gets 6-th place in the competition.
 
