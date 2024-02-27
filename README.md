@@ -14,16 +14,5 @@ git clone https://github.com/jerryfeng2003/CVPPA2023_Image_Classification
 cd CVPPA2023_Image_Classification
 unzip 1769319269-DND-Diko-WWWR.zip -d Image
 conda install --yes --file requirements.txt
-```
 
-# Training
-```
-sh train_ww.sh
-sh train_wr.sh
-```
-
-# Testing
-```
-sh test_ww.sh
-sh test_wr.sh
 ```
